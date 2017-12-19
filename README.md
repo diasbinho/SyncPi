@@ -14,4 +14,10 @@ Sob a orientação do Professor Mestre Emerson Santos Paduan
 
 ------------------------------------------------------------------------------------------
 
-É necessária a instalação dos arquivos de dependeicas nos RPi's players antes de rodar o SyncPi
+O sistema foi desenvolvido utilizando o openFrameworks(http://openframeworks.cc/) com o addon ofxOMXPlayer utilizando a Versão Jessie do Raspian.
+
+Foram feitas pequenas alterações no addon original, para a versão atualizada, utilizar o fork http://github.com/diasbinho/ofxOMXPlayer
+
+É necessária a instalação dos arquivos de dependênicas nos RPi's players antes de rodar o SyncPi
+
+
