@@ -24,6 +24,8 @@ Foram feitas pequenas alterações no addon original, para a versão atualizada,
  - https://github.com/diasbinho/SyncPi/blob/master/install_codecs.sh
  - https://github.com/diasbinho/SyncPi/blob/master/install_dependencies.sh 
  
+ ------------------------------------------------------------------------------------------
+ 
  <Strong>Configurando o RPi</Strong>
 
 Para a instalação do Sistema operacional foi baixada a imagem do Raspian Jessie (http://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/) no site oficial. Para gravar a imagem no cartão de memória foi utilizado o Etcher (https://etcher.io/). Basta inserir o cartão de memória e o sistema é reconhecido. 
