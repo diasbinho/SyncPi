@@ -31,7 +31,7 @@ Para a versão instalada, no terminal de comando que mostra a versão do Raspian
 
 	$ cat /etc/os-release
 
-	Se o sistema instalado estiver correto, deve aparecer a seguinte mensagem:
+Se o sistema instalado estiver correto, deve aparecer a seguinte mensagem:
 
 	PRETTY_NAME="Raspbian GNU/Linux 8 (jessie)"
 	NAME="Raspbian GNU/Linux"
@@ -76,7 +76,6 @@ Em seguida é necessária a execução dos scripts de dependência de biblioteca
 
 Por fim o openFrameworks é compilado. Este processo pode ser acelerado utilizando o 4 cores do processador através do argumento –j4 depois do comando make.
 
-	$ make -j4 Release -C 
-	openFrameworks/libs/openFrameworksCompiled/
+	$ make -j4 Release -C openFrameworks/libs/openFrameworksCompiled/
 
-Após a configuração o RPi estará pronto para utilizar o framework
+Após a configuração o RPi estará pronto para utilizar o framework!
