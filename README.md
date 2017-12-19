@@ -18,6 +18,4 @@ O sistema foi desenvolvido utilizando o openFrameworks(http://openframeworks.cc/
 
 Foram feitas pequenas alterações no addon original, para a versão atualizada, utilizar o fork http://github.com/diasbinho/ofxOMXPlayer
 
-É necessária a instalação dos arquivos de dependênicas nos RPi's players antes de rodar o SyncPi
-
-
+É necessária a instalação dos arquivos de dependênicas do framework nos RPi player para rodar o SyncPi.
