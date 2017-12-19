@@ -17,7 +17,8 @@ Sob a orientação do Professor Mestre Emerson Santos Paduan
 O sistema foi desenvolvido utilizando o openFrameworks, um toolkit open source C++ distribuído sob a licença MIT com o addon ofxOMXPlayer.
  - http://openframeworks.cc/versions/v0.9.8/of_v0.9.8_linuxarmv6l_release.tar.gz
 
-Foram feitas pequenas alterações no addon original, para a versão atualizada, utilizar o fork http://github.com/diasbinho/ofxOMXPlayer
+Foram feitas pequenas alterações no addon original, para a versão atualizada, utilizar o fork:
+ - http://github.com/diasbinho/ofxOMXPlayer
 
 É necessária a instalação dos arquivos de dependênicas do framework nos RPi player para rodar o SyncPi.
  - https://github.com/diasbinho/SyncPi/blob/master/install_codecs.sh
